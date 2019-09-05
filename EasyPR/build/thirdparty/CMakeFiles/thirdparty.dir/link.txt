@@ -1,0 +1,2 @@
+/bin/ar qc libthirdparty.a  CMakeFiles/thirdparty.dir/xmlParser/xmlParser.cpp.o CMakeFiles/thirdparty.dir/textDetect/erfilter.cpp.o CMakeFiles/thirdparty.dir/LBP/helper.cpp.o CMakeFiles/thirdparty.dir/LBP/lbp.cpp.o CMakeFiles/thirdparty.dir/mser/mser2.cpp.o
+/bin/ranlib libthirdparty.a
